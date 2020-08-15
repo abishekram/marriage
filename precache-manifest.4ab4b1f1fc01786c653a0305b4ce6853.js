@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92c02414201ae71536c6f191957d0a2d",
+    "revision": "b64ccf08196542a6ce35d3fb5897c27e",
     "url": "/marriage/index.html"
   },
   {
-    "revision": "271ad463f7e39799e532",
-    "url": "/marriage/static/css/main.4912ba30.chunk.css"
+    "revision": "4fce5bdddd45a191c171",
+    "url": "/marriage/static/css/main.d8d3ced9.chunk.css"
   },
   {
-    "revision": "dd25a4348131533d0166",
-    "url": "/marriage/static/js/2.5323ef7d.chunk.js"
+    "revision": "74530f53fda64766fe23",
+    "url": "/marriage/static/js/2.ddf97caa.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/marriage/static/js/2.5323ef7d.chunk.js.LICENSE.txt"
+    "url": "/marriage/static/js/2.ddf97caa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "271ad463f7e39799e532",
-    "url": "/marriage/static/js/main.b1b56965.chunk.js"
+    "revision": "4fce5bdddd45a191c171",
+    "url": "/marriage/static/js/main.721a9e51.chunk.js"
   },
   {
     "revision": "e31d99ca8b911794ddd9",
@@ -32,16 +32,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marriage/static/media/background_color.d2236617.png"
   },
   {
-    "revision": "07211bca5a3aba5232648c99fd096477",
-    "url": "/marriage/static/media/background_sand.07211bca.jpg"
+    "revision": "07379b40ca022a23486b8a69e3a6e971",
+    "url": "/marriage/static/media/background_mountain.07379b40.jpg"
   },
   {
     "revision": "eeb68ba00e758b6b7a0102a2a3142190",
     "url": "/marriage/static/media/cake.eeb68ba0.svg"
   },
   {
+    "revision": "89945f1fb71011903fcbdefe5abefd21",
+    "url": "/marriage/static/media/calendar.89945f1f.svg"
+  },
+  {
     "revision": "2085a9f50c9f34d0ce611ff543758b51",
     "url": "/marriage/static/media/heart.2085a9f5.svg"
+  },
+  {
+    "revision": "b6f970178f95f5e23dee5be5ca65c5e4",
+    "url": "/marriage/static/media/mountain.b6f97017.svg"
   },
   {
     "revision": "e90f6a6836e34e658d3844826b56b58c",
